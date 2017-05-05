@@ -31,6 +31,5 @@
  # Added Ascension Perks #
  #########################
  
- ap_galactic_matter:0 ""
- ap_galactic_matter_desc:0 ""
- 
+ ap_galactic_matter:0 "Galactic Matter"
+ ap_galactic_matter_desc:0 "Galactic Matter is overpowered."

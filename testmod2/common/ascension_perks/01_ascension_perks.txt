@@ -1,10 +1,10 @@
-# See traditions/README.txt for format
+# Custom Ascension Perks Events
 
 ap_galactic_matter = {
 	on_enabled = {
 		add_research_option = tech_gene_seed_purification
 		hidden_effect = {
-			country_event = { id = utopia.2700 }
+			country_event = { id = testmod.1 }
 		}
 	}
 	possible = {		
@@ -16,18 +16,10 @@ ap_galactic_matter = {
 			fail_text = "requires_technology_gene_tailoring"
 			has_technology = tech_gene_tailoring
 		}
-		custom_tooltip = {
-			fail_text = "requires_not_ap_the_flesh_is_weak"
-			NOT = { has_ascension_perk = ap_the_flesh_is_weak }
-		}
-		custom_tooltip = {
-			fail_text = "requires_not_ap_mind_over_matter"
-			NOT = { has_ascension_perk = ap_mind_over_matter }
-		}
 	}
 	modifier = {
-		trait_points = 2
-		modify_species_cost_mult = -0.50
+		trait_points = 10
+		modify_species_cost_mult = -1
 	}
 	
 	potential = {

@@ -2,5 +2,7 @@
 
  # Ascension and the Shroud
  
- utopia.galactic.matter:0 "Galactic Matter"
- utopia.galactic.matter:0 "We now possess both the technology to make advanced cybernetic implants and the means to mass-produce them. Medical centers throughout the [Root.GetName] are standing by to begin the surgical grafting process on our citizens.\n\nIn the future, possessing neural implants and at least a rudimentary level of cybernetics will be necessary to function in the technological society we are building. Consequently, the conversion process to install a basic cybernetics suite will be mandatory and free of cost to all of our citizens."
+ # Galactic Matter Perk Event
+ 
+ testmod.1.name:0 "Galactic Matter"
+ testmod.1.desc:0 "We now possess both the technology to make advanced cybernetic implants and the means to mass-produce them. Medical centers throughout the [Root.GetName] are standing by to begin the surgical grafting process on our citizens.\n\nIn the future, possessing neural implants and at least a rudimentary level of cybernetics will be necessary to function in the technological society we are building. Consequently, the conversion process to install a basic cybernetics suite will be mandatory and free of cost to all of our citizens."
