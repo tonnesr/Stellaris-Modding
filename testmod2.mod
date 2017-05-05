@@ -1,0 +1,9 @@
+name="test2"
+path="mod/testmod2"
+tags={
+	"Species"
+	"Gameplay"
+}
+picture="On9NM.jpg"
+remote_file_id="918444461"
+supported_version="1.5.1"

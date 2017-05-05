@@ -1,0 +1,36 @@
+﻿l_english:
+ ################
+ # Added Traits #
+ ################
+  
+ trait_pluss:0 "Pluss"	
+ trait_pluss_desc:0 "§LThis trait gives you more stuff, hence the pluss.§!\n"
+ 
+ trait_pyramid:0 "Pyramid"	
+ trait_pyramid_desc:0 "§LThis species loves to build pyramids.§!\n"
+ 
+ trait_hexagon:0 "Hexagon"	
+ trait_hexagon_desc:0 "§LI love hexagons.§!\n"
+
+
+ ###################
+ # Added Buildings #
+ ###################
+ 
+ building_basic_power_station:0 "Basic Power Station"
+ building_basic_power_station_desc:1 "Power Station produce alot Energy Credits, necessary for maintaining most buildings and ships."
+ 
+ ####################
+ # Added Technology #
+ ####################
+ 
+ tech_basic_power_station:0 "Power Generation to the Max"
+ tech_basic_power_station_desc:0 "Better energy generators are on thier way."
+ 
+ #########################
+ # Added Ascension Perks #
+ #########################
+ 
+ ap_galactic_matter:0 ""
+ ap_galactic_matter_desc:0 ""
+ 
