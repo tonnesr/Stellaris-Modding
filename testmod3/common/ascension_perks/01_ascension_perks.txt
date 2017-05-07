@@ -1,0 +1,29 @@
+# Custom Ascension Perks Events
+
+ap_moss_data = {
+	on_enabled = {
+		custom_tooltip = "synthetic_evolution_tooltip"
+		hidden_effect = {
+			country_event = { id = testmod.1 }
+		}
+	}
+	modifier = {
+		country_robot_maintenance_mult = -0.25
+	}		
+	possible = {
+		custom_tooltip = {
+			fail_text = "requires_ascension_perks_2"
+			num_ascension_perks > 1
+		}
+	}
+	potential = {
+		NOT = {
+			has_ascension_perk = ap_synthetic_evolution
+		}
+	}
+	ai_weight = {
+		factor = 5
+	}
+	
+	picture = "GFX_ap_moss_data.dds"
+}

@@ -1,0 +1,9 @@
+name="testmod3"
+path="mod/testmod3"
+tags={
+	"Events"
+	"Gameplay"
+	"Graphics"
+	"Overhaul"
+}
+supported_version="1.5.1"
