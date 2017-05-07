@@ -24,6 +24,5 @@ ap_moss_data = {
 	ai_weight = {
 		factor = 5
 	}
-	
-	picture = "GFX_ap_moss_data.dds"
+	icon = GFX_ap_moss_data
 }
